@@ -1,16 +1,16 @@
-# PetrolPump-Management-System [DBMS]  
+# Rental-Management-System [DBMS]  
 
-## Impletation Environment
+## Implementation Environment
 
 ### FrontEnd
 
-- In this Project, frontend part is done by using famous Python library streamlit.
+- In this Project, the frontend part is done by using the famous Python library streamlit.
 
--  Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc.
+-  Streamlit is an open-source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as sci-kit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib, etc.
 
 - We can Perform operations such as Create, Read, Delete, Update aslso known as [CRUD] Operations.
 
-- There is one user defined function which calculate Toltal Price in Tanker table and a Trigger which is preset in Employee table which get activated when someone Try to update Salary field if salary is less that 300000. 
+- Here the app can able to  tenants,owners  store payments associated with CRUD operations
 
 ### Backend
 
